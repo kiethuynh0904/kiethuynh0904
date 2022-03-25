@@ -5,11 +5,7 @@
 - 👌 Familiar with Typescript & React
 - 👀 I’m interested in everything in the world 😍💕
 
-## 🔭 I'm currently working on
-
-- Mobile with react-native
-
-## 🌱 I'm currently learning
+## 🌱 I'm currently working on
 
 - Blockchain <img src="https://raw.githubusercontent.com/ErikThiart/cryptocurrency-icons/master/16/bitcoin.png"> 
 - Solana  <a  href="https://solana.com"><img src="https://raw.githubusercontent.com/ErikThiart/cryptocurrency-icons/master/16/solana.png"></a>
