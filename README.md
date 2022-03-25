@@ -1,4 +1,4 @@
-# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I’m kiethuynh0904 aka dev.kitee 😎 
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I’m Kiet Huynh - aka dev.kitee 😎 
 
 ## Introduction
 - 💜 I'm a developer
@@ -11,7 +11,7 @@
 
 ## 🌱 I'm currently learning
 
-- Blockchain
+- Blockchain <img src="https://raw.githubusercontent.com/ErikThiart/cryptocurrency-icons/master/16/bitcoin.png"> 
 - Solana  <a  href="https://solana.com"><img src="https://raw.githubusercontent.com/ErikThiart/cryptocurrency-icons/master/16/solana.png"></a>
 - Cosmos SDK & Starport <a href="https://cosmos.network/"> <img src="https://raw.githubusercontent.com/ErikThiart/cryptocurrency-icons/master/16/cosmos.png "></a>
 
