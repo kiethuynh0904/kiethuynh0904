@@ -1,15 +1,12 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I’m Kiet Huynh - aka dev.kitee 😎 
 
 ## Introduction
-- I'm a developer
 - Familiar with Typescript & React 👌
 - I’m interested in everything in the world 👀
 
 ## 🌱 I'm currently working on
 - React Native
 - Blockchain <img src="https://raw.githubusercontent.com/ErikThiart/cryptocurrency-icons/master/16/bitcoin.png"> 
-- Solana  <a  href="https://solana.com"><img src="https://raw.githubusercontent.com/ErikThiart/cryptocurrency-icons/master/16/solana.png"></a>
-- Cosmos SDK & Starport <a href="https://cosmos.network/"> <img src="https://raw.githubusercontent.com/ErikThiart/cryptocurrency-icons/master/16/cosmos.png "></a>
 
 ## 🤝 Contact to me:
 
@@ -28,15 +25,12 @@
 ## 💼 Technology stack:
 
 ![](https://img.shields.io/badge/library-React-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/framework-Vue-informational?style=flat&logo=vue.js&color=4FC08D)
-![](https://img.shields.io/badge/framework-Next-informational?style=flat&logo=next.js&color=000000)
  
 <br />
 
 ![](https://img.shields.io/badge/code-javascript-informational?style=flat&logo=javascript&color=F7DF1E)
 ![](https://img.shields.io/badge/code-typescript-informational?style=flat&logo=typescript&color=3178C6)
 ![](https://img.shields.io/badge/code-Rust-informational?style=flat&logo=rust&color=000000)
-![](https://img.shields.io/badge/code-Go-informational?style=flat&logo=go&color=00ADD8)
 
 <br />
 
