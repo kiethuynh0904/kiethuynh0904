@@ -2,7 +2,7 @@
 
 ## Introduction
 - Familiar with Typescript & React 👌
-- I’m interested in everything in the world 👀
+- I’m interested in beautiful things in the world 👀
 
 ## 🌱 I'm currently working on
 - React Native
@@ -20,7 +20,7 @@
 
 <br />
 
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+- 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
 
 ## 💼 Technology stack:
 
