@@ -3,8 +3,14 @@ name: Generate Snake Animation
 on:
   schedule:
     - cron: "0 0 * * *" # every day at midnight
+  
   workflow_dispatch:
 
+  # run on push to main branch
+  push:
+    branches:
+    - main
+    
 jobs:
   generate:
     runs-on: ubuntu-latest
